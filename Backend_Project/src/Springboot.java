@@ -5,7 +5,7 @@ public class Springboot {
 		System.out.println("hllo");
 		
 		
-		
+		System.out.println("hllo");	System.out.println("hllo");	System.out.println("hllo");
 		
 	}
 
